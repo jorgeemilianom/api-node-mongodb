@@ -1,0 +1,5 @@
+# Carpetas a ignorar
+node_modules
+
+# Archivos a ignorar
+package-lock.json
